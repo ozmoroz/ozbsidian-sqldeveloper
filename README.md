@@ -1,6 +1,6 @@
 # OzBsidian colour scheme for Oracle SQL Developer #
 
-This is a spinoff of Obsidian colour scheme for Oracle SQL Developer. It is based on Obsidian colour scheme for [Notepad++](http://notepad-plus-plus.org/).
+This is a spinoff of Obsidian colour scheme for Oracle SQL Developer. It is based on [Obsidian Eclipse colour scheme by Morinar] (http://eclipsecolorthemes.org/?view=theme&id=21).
 
 ![](screenshots/ozbsidian-sqldev_1.png)
 
