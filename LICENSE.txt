@@ -1,0 +1,9 @@
+BEERWARE LICENSE version 43 and 1/2, September 9 2016
+This license is based on Poul-Henning Kamp 's original beerware license.
+
+As long as you keep any copyright notices and any mentions of this license intact
+(and include this file if it is a released package), you can do whatever you want
+with this stuff. if we meet one day, and you think it's worth it, you can buy me
+a beer in return. Sergey Stadnik
+
+There is no warranty for this work, use it at your own risk.
